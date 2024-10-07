@@ -5,7 +5,7 @@ import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import All from "./Component/All"
 import FullStackDevelopment from "./Component/FullStackDevelopment"
 import DataScience from "./Component/DataScience"
-import CyberSecurity from './Component/Cybersecurity'
+import CyberSecurity from './Component/CyberSecurity'
 import Career from './Component/Career'
 
 function App() {
